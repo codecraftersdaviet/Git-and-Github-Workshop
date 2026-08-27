@@ -1,1 +1,1 @@
-
+- Navriti Choudhary — [GitHub Repository] (https://github.com/Navriti-logs/student-card) — [Live Website] (https://navriti-logs.github.io/student-card/)
